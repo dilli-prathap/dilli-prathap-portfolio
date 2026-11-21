@@ -58,7 +58,6 @@ Open http://localhost:3000 in your browser.
 
 - GitHub: [dilli-prathap](https://github.com/dilli-prathap)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/dilli-prathap-607158426/)
-- Email: dilliprathap.in@gmail.com
 
 ---
 
