@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Personal files - keep out of GitHub
+/public/profile.jpg
+/public/resume.pdf
